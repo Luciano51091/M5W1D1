@@ -2,7 +2,6 @@
 
  - Una libreria JavaScript per la creazione di interfacce utente */
 
-
 // 2. React è un framework, non una libreria.
 // - Falso
 
@@ -38,8 +37,4 @@
 
 /* 10. Da dove possono venire recuperate le props all'interno di un componente React creato come classe?
 
-- Possono essre recuperate all'interno dell'oggetto "this", dentro un sotto-oggetto chiamato "props"
-
-
-
-
+- Possono essre recuperate all'interno dell'oggetto "this", dentro un sotto-oggetto chiamato "props" */
